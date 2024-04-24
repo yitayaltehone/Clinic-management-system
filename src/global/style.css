@@ -1,0 +1,21 @@
+.headercard {
+    height: 10px;
+    margin-top: 0px;
+}
+.tabs{
+    margin-top: 10px;;
+}
+.selected{
+    background-color: #2e536d;
+    color: cornsilk;
+}
+.ShirinkAccourdion{
+    background-color: #34495E;
+    color: cornsilk;
+}
+.examinationCompleted{
+    color:#2E8B57
+}
+.examinationonProgress{
+    color:red;
+}

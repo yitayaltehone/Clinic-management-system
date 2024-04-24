@@ -1,0 +1,229 @@
+[33mcommit e4802b6a41f38c9f9a7ed816a84735ac2431f041[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Muluken Menberu <muluken.menberu@intake.education>
+Date:   Tue Jun 28 22:19:59 2022 +0300
+
+    roles and role menus created for three roles
+
+[33mcommit cd192f4bee857ddd1ca87355a0dffcdea7f311c9[m
+Author: Muluken Menberu <muluken.menberu@intake.education>
+Date:   Mon Jun 20 17:51:58 2022 +0300
+
+    getone
+
+[33mcommit ec793387f559f3ce2a11a95ec8e173af6ff94e26[m
+Author: Muluken Menberu <muluken.menberu@intake.education>
+Date:   Tue Jun 14 18:33:39 2022 +0300
+
+[33mcommit e79b7e04b42d20d1aa928100702252c959760802[m
+Author: Muluken Menberu <muluken.menberu@intake.education>
+Date:   Sat Jan 29 20:17:59 2022 +0300
+
+    front end updates
+
+[33mcommit 8a1eebccac27d973b553870ffc699f45c2f5f7a4[m
+Author: Muluken Menberu <muluken.menberu@intake.education>
+Date:   Sat Jan 22 11:36:42 2022 +0300
+
+    package
+
+[33mcommit bbc48b091ae31876e702a8f5d09c5e90f75fc2b2[m
+Author: Muluken Menberu <muluken.menberu@intake.education>
+Date:   Sat Jan 22 11:35:36 2022 +0300
+
+    store configration
+
+[33mcommit e0789c1b1cab9f08b4bf88a9907e27e4a38a2dcc[m
+Author: Muluken Menberu <muluken.menberu@intake.education>
+Date:   Sat Jan 22 11:33:38 2022 +0300
+
+    updates
+
+[33mcommit 2d940be39b9a648f9be9f826c344ced001bd1675[m
+Author: direselign <direselign.addis@intake.education>
+Date:   Sun Jan 16 13:39:38 2022 +0300
+
+    language added
+
+[33mcommit ad61725212cd4fc9b3a12666c7d578f809989b08[m
+Author: Muluken Menberu <muluken.menberu@intake.education>
+Date:   Sat Jan 15 16:59:40 2022 +0300
+
+    front ends
+
+[33mcommit 790befe5a7d06f5674ff8eab1a8a7946682957ac[m
+Author: Muluken Menberu <muluken.menberu@intake.education>
+Date:   Wed Jan 12 00:57:08 2022 +0300
+
+    update
+
+[33mcommit 8dfc96d52e8b6099513dbbe262ac160855d71a1c[m
+Author: Muluken Menberu <muluken.menberu@intake.education>
+Date:   Tue Jan 11 18:07:39 2022 +0300
+
+    updates
+
+[33mcommit 054ead3d2daf9b7d6e4bfc7607b31082c95bc905[m
+Author: Muluken Menberu <muluken.menberu@intake.education>
+Date:   Tue Jan 11 08:18:33 2022 +0300
+
+    patient updates
+
+[33mcommit 7b6822c47d2de40fc74624eb7bef467dc102fb76[m
+Merge: 13315e8 ceacd3d
+Author: direselign <direselign.addis@intake.education>
+Date:   Thu Jan 6 15:49:04 2022 +0300
+
+    pull and rebase
+
+[33mcommit ceacd3dc56c2061d77064095fd1ebbe693060500[m
+Author: Muluken Menberu <muluken.menberu@intake.education>
+Date:   Thu Jan 6 02:17:50 2022 +0300
+
+    update
+
+[33mcommit 27496a75da09232e90fcfc80b017509e64ed5eb7[m
+Author: Muluken Menberu <muluken.menberu@intake.education>
+Date:   Wed Jan 5 23:50:32 2022 +0300
+
+    patient update
+
+[33mcommit 13315e872ec8dfa866b4fdbdf83932402a88a55d[m
+Merge: 462a4b3 6ee1b2c
+Author: direselign <direselign.addis@intake.education>
+Date:   Wed Jan 5 18:46:43 2022 +0300
+
+    Merge branch 'main' of https://github.com/bernosrepo/web
+
+[33mcommit 6ee1b2c193b8a461bdc0b049722a888115a39e03[m
+Author: Muluken Menberu <muluken.menberu@intake.education>
+Date:   Wed Jan 5 16:19:17 2022 +0300
+
+    update
+
+[33mcommit 462a4b39e898ae3c87eeba83f450cae6796527b1[m
+Merge: 62774b4 c255a35
+Author: direselign <direselign.addis@intake.education>
+Date:   Wed Jan 5 16:15:25 2022 +0300
+
+    Merge branch 'main' of https://github.com/bernosrepo/web
+
+[33mcommit c255a35fd274141ba94ee70d4b732bea2f7fbf36[m
+Author: Muluken Menberu <muluken.menberu@intake.education>
+Date:   Tue Jan 4 17:27:17 2022 +0300
+
+    single test
+
+[33mcommit 62774b43a760c61142f176b4ab717eb4bb27af48[m
+Author: direselign <direselign.addis@intake.education>
+Date:   Sat Jan 1 22:41:49 2022 +0300
+
+    sdfsdf
+
+[33mcommit 82321de2ab54283cfdc55abd8ee3e9bf846550d0[m
+Author: direselign <direselign.addis@intake.education>
+Date:   Sat Jan 1 22:11:21 2022 +0300
+
+    Modified
+
+[33mcommit fe804b9b05fe396052f0ee8915b82bcee9adb473[m
+Author: direselign <direselign.addis@intake.education>
+Date:   Sat Jan 1 22:01:05 2022 +0300
+
+    modified
+
+[33mcommit 48144e080046332ed7d58bb07f5ff97a4db21152[m
+Author: direselign <direselign.addis@intake.education>
+Date:   Sat Jan 1 19:32:04 2022 +0300
+
+    re push
+
+[33mcommit 42145a4477c0841de89639d3546e210374d9c011[m
+Author: direselign <direselign.addis@intake.education>
+Date:   Sat Jan 1 12:33:50 2022 +0300
+
+    new react
+
+[33mcommit c06890695ce330beef0503097acaf12de376d0a1[m
+Author: Muluken Menberu <muluken.menberu@intake.education>
+Date:   Sun Dec 26 18:12:09 2021 +0300
+
+    modal and tabs created
+
+[33mcommit 8f2cd0e7316e098b845815b4ab06ae23bb6b9786[m
+Merge: 1bee2d2 90a385d
+Author: Muluken Menberu <muluken.menberu@intake.education>
+Date:   Sat Dec 25 16:46:18 2021 +0300
+
+    Merge branch 'main' of https://github.com/bernosrepo/web
+
+[33mcommit 1bee2d2e5629ced9883f670242a64925c1a8dde2[m
+Author: Muluken Menberu <muluken.menberu@intake.education>
+Date:   Sat Dec 25 16:45:54 2021 +0300
+
+    update
+
+[33mcommit 893407619d6068012141b1aa9ea75768e7a85270[m
+Author: Muluken Menberu <muluken.menberu@intake.education>
+Date:   Sat Dec 25 16:44:09 2021 +0300
+
+    update
+
+[33mcommit 89bbfc98b8814343b3919e28af4d851e65be26a5[m
+Author: Muluken Menberu <muluken.menberu@intake.education>
+Date:   Sat Dec 25 16:40:20 2021 +0300
+
+    u
+
+[33mcommit f533a046094a979095f6aedbf951d18cb857b9b8[m
+Author: Muluken Menberu <muluken.menberu@intake.education>
+Date:   Sat Dec 25 16:34:34 2021 +0300
+
+    fixed fire issue
+
+[33mcommit 90a385dee765428d9da47ddfa9d1a537e4dde93f[m
+Author: direselign <direselign.addis@intake.education>
+Date:   Sat Dec 25 15:27:41 2021 +0300
+
+    updated
+
+[33mcommit 7008e3632f3576bdbf4a977ca96405ddcbda5a5a[m
+Author: direselign <direselign.addis@intake.education>
+Date:   Sat Dec 25 15:24:45 2021 +0300
+
+    sdf
+
+[33mcommit acad787e5a265ba904b73fcc2b7d7c45acf6eb64[m
+Author: direselign <direselign.addis@intake.education>
+Date:   Sat Dec 25 15:24:10 2021 +0300
+
+    readme mod
+
+[33mcommit b956e9163a58653d73a2710a1da275e09552871f[m
+Author: direselign <direselign.addis@intake.education>
+Date:   Sat Dec 25 15:09:20 2021 +0300
+
+    readme added
+
+[33mcommit 0c39e3d4f847d3c2ba5eb114109262aa0aa2ed2d[m
+Author: direselign <direselign.addis@intake.education>
+Date:   Sat Dec 25 14:55:45 2021 +0300
+
+    old removed
+
+[33mcommit b193a25b64f1995d3b60fb1894b41e9201d685ca[m
+Author: direselign <direselign.addis@intake.education>
+Date:   Sat Dec 25 14:53:57 2021 +0300
+
+    docker
+
+[33mcommit 1b75131480389641b254f44f6c2dec709a8d0308[m
+Author: direselign <direselign.addis@intake.education>
+Date:   Sat Dec 25 14:53:40 2021 +0300
+
+    change
+
+[33mcommit 7f80944f97687a0cb31bb42021732f9ce67fcc49[m
+Author: direselign-addis <78480358+direselign-addis@users.noreply.github.com>
+Date:   Sat Dec 25 14:16:33 2021 +0300
+
+    Initial commit
