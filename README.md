@@ -8,7 +8,7 @@
 
 ``` docker-compose up -d ```
 
-# Hospital Information Management system
+# Clinic Information Management system
 I have added the registration form based up on the table described on the Hospital.sql
 I have used  the roles on Triage, Recored officer, Doctor,Laboratorist,Pharmacist,Nurse and System Admin
 Patient_Laboratory page for simplify the patient list in a specific Patient Data(in it is important)
